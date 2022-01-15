@@ -25,7 +25,7 @@ TextLabel.BackgroundTransparency = 1.000
 TextLabel.Position = UDim2.new(-0.233473584, 0, -0.0548613295, 0)
 TextLabel.Size = UDim2.new(0, 200, 0, 50)
 TextLabel.Font = Enum.Font.Cartoon
-TextLabel.Text = "XML"
+TextLabel.Text = "RiskWare"
 TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextLabel.TextSize = 27.000
 
